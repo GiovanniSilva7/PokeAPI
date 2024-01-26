@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="digite_o_id_do_pok_mon">Digite o ID do Pokémon</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>
